@@ -1,5 +1,3 @@
-> This is
-> a blockquote
->
-> > Nested
-> > Blockquote
+```javascript
+console.log("This is a block code")
+```
