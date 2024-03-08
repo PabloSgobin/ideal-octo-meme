@@ -1,4 +1,4 @@
-   NADA|ABSOLUTAMENTE NADA| Right column
+   NADA| ABSOLUTAMENTE NADA | NADA!!
 :----------:|:-------------:|:-----------:
-   Cell 1   |   Centered    |    $1600
-   Cell 2   |    Cell 3     |     $12
+  1  |   Centered    |    $1600
+  2   |    Cell 3     |     $12
